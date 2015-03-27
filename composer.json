@@ -3,6 +3,7 @@
     "type": "ansible-role",
     "description": "Ansible role for drupal service for devshop2.  An experiment for devshop2.",
     "require": {
-        "monofone/ansible-installer": "~1.0"
+        "monofone/ansible-installer": "~1.0",
+        "opendevshop/ansible-role-drupal": "dev-master"
     }
 }
